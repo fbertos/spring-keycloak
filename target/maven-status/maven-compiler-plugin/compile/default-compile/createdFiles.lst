@@ -1,0 +1,12 @@
+org/fbertos/persistence/model/User.class
+org/fbertos/authorization/crypto/Encoders.class
+org/fbertos/persistence/model/Authority.class
+org/fbertos/authorization/config/ServerSecurityConfig.class
+org/fbertos/authorization/config/CorsFilter.class
+org/fbertos/persistence/service/UserService.class
+org/fbertos/persistence/dao/UserRepository.class
+org/fbertos/persistence/search/UserSpecification.class
+org/fbertos/persistence/service/UserServiceImpl.class
+org/fbertos/persistence/search/Filter.class
+org/fbertos/persistence/controller/UserController.class
+org/fbertos/persistence/ApplicationRestService.class

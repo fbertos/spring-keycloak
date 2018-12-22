@@ -1,0 +1,13 @@
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/search/UserSpecification.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/search/Filter.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/model/Authority.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/controller/StaticController.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/authorization/config/ServerSecurityConfig.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/service/UserService.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/authorization/config/CorsFilter.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/service/UserServiceImpl.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/dao/UserRepository.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/authorization/crypto/Encoders.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/ApplicationRestService.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/model/User.java
+/home/fbertos/workspace/spring-keycloak/src/main/java/org/fbertos/persistence/controller/UserController.java
